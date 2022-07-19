@@ -1,4 +1,26 @@
 - Final Burn Alpha Libretro (revisão 0.5)
 Esta versão do Final Burn Alpha Libretro para Nintendo Wii utiliza como base o romset 0.2.97.
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
-------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+- WiiMednafen (v3.0 r2021040001)
+Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos seguintes sistemas de emulação:
+* Atari Lynx
+* Famicom Disk System (NES)
+* Game Boy
+* Game Boy Color
+* Game Boy Advance
+* Game Gear
+* Master System
+* Mega Drive
+* NeoGeo Pocket
+* NeoGeo Pocket Color
+* NES (Nintendo Entertainment System)
+* PC Engine
+* PC Engine CD
+* PC-FX
+* SG-1000
+* Virtual Boy
+* WonderSwan
+* WonderSwan Color
+# https://github.com/raz0red/wii-mednafen
+----------------------------------------------------------------------------------------------------------
