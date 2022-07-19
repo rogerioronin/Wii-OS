@@ -1,5 +1,5 @@
 - Final Burn Alpha Libretro (revisão 0.5)
-Esta versão do Final Burn Alpha Libretro para Nintendo Wii utiliza como base o romset 0.2.97.
+Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
 ----------------------------------------------------------------------------------------------------------
 - WiiMednafen (v3.0 r2021040001)
@@ -32,4 +32,13 @@ Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
 - Snes9x RX (v5.2.0)
 Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.52.
 # https://github.com/niuus/snes9xrx
+----------------------------------------------------------------------------------------------------------
+- WiiSX RX 2022 (v20220710)
+Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatibilidade.
+# https://github.com/xjsxjs197/WiiSXRX_2022
+# https://gbatemp.net/threads/wiisxrx_2022-another-fork-of-wiisxrx-released.614405
+----------------------------------------------------------------------------------------------------------
+- WiiSX RX (v2.6)
+Emulador de Playstation otimizado para Nintendo Wii.
+# https://github.com/niuus/WiiSXRX
 ----------------------------------------------------------------------------------------------------------
