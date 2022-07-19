@@ -1,7 +1,7 @@
 - Final Burn Alpha Libretro (Revisão 0.5)
 Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
-----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 - WiiMednafen (Versão 3.0 Revisão 2021040001)
 Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos seguintes sistemas de emulação:
 * Atari Lynx
@@ -66,4 +66,8 @@ Emulador de Game Boy e Game Boy Color para Nintendo Wii.
 - Wolfenstein 3D - Spear Of Destiny Wii (Versão 1.31) e Wolfenstein 3D Wii (Versão 1.3)
 Jogo Wolfenstein 3D portado e otimizado para Nintendo Wii.
 # https://mundowiihack.wordpress.com/tag/wolfenstein-3d-wii
+----------------------------------------------------------------------------------------------------------
+- OpenTyrian Wii (Versão 1.8 revisão 45)
+Jogo Tyrian portado e otimizado para Nintendo Wii.
+# https://github.com/niuus/OpenTyrian-Wii
 ----------------------------------------------------------------------------------------------------------
