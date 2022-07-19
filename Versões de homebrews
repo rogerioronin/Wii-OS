@@ -24,3 +24,12 @@ Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos segui
 * WonderSwan Color
 # https://github.com/raz0red/wii-mednafen
 ----------------------------------------------------------------------------------------------------------
+- Snes9x TX (v1.1.1 Beta)
+Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
+# https://gbatemp.net/threads/snes9xgx-mushroom.558500
+# https://github.com/dborth/snes9xgx
+----------------------------------------------------------------------------------------------------------
+- Snes9x RX (v5.2.0)
+Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.52.
+# https://github.com/niuus/snes9xrx
+----------------------------------------------------------------------------------------------------------
