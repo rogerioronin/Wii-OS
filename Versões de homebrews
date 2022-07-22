@@ -42,12 +42,12 @@ Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatib
 Emulador de Playstation otimizado para Nintendo Wii.
 # https://github.com/niuus/WiiSXRX
 # https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
-------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 - Wii64 (Versão 1.3 MOD Beta6)
 Emulador de Nintendo 64 otimizado para Nintendo Wii. Existe duas versões do Wii64, a primeira é a "glN64 GFX" e a segunda é a "Rice GFX".
 # https://github.com/emukidid/Wii64
 # https://gbatemp.net/threads/wii64-beta-1-3-with-wiiflow-compatibility.609418
-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 - Not64 (Versão 20211116)
 Emulador de Nintendo 64 otimizado para Nintendo Wii.
 # https://github.com/extremscorner/not64
@@ -74,9 +74,13 @@ Jogo Tyrian portado e otimizado para Nintendo Wii.
 ----------------------------------------------------------------------------------------------------------
 - Giana’s Return Wii (Versão 1.10.1)
 Jogo homebrew "Giana’s Return" portado para Nintendo Wii.
-https://www.gianas-return.de
+# https://www.gianas-return.de
 ----------------------------------------------------------------------------------------------------------
 - Open Hydra Castle Labyrinth Wii (Versão 2021.11.08)
 Jogo homebrew "Open Hydra Castle Labyrinth" portado para Nintendo Wii.
 # https://github.com/JeffRuLz/OpenHCL
-----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+- Final Burn Alpha CPS1 (Revisão 0.8)
+Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
+# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1
+----------------------------------------------------------------------------------------------------------------
