@@ -24,7 +24,7 @@ Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos segui
 * WonderSwan Color
 # https://github.com/raz0red/wii-mednafen
 ----------------------------------------------------------------------------------------------------------
-- Snes9x TX (Versão 1.1.1 Beta)
+- Snes9x TX (Versão 1.1.1 Beta 2)
 Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
 # https://gbatemp.net/threads/snes9xgx-mushroom.558500
 # https://github.com/dborth/snes9xgx
@@ -41,6 +41,7 @@ Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatib
 - WiiSX RX (Versão 2.7)
 Emulador de Playstation otimizado para Nintendo Wii.
 # https://github.com/niuus/WiiSXRX
+# https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 - Wii64 (Versão 1.3 MOD Beta6)
 Emulador de Nintendo 64 otimizado para Nintendo Wii. Existe duas versões do Wii64, a primeira é a "glN64 GFX" e a segunda é a "Rice GFX".
