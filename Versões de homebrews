@@ -1,7 +1,22 @@
+ARCADE
+
 - Final Burn Alpha Libretro (Revisão 0.5)
 Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
 --------------------------------------------------------------------------------------------------------------------
+- Final Burn Alpha CPS1 (Revisão 0.8)
+Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
+# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1
+----------------------------------------------------------------------------------------------------------------
+- Final Burn Alpha CPS2 (Revisão 0.6.2)
+Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, utiliza como base o romset 0.2.97.
+# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps2
+----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+
+
+MULTIEMULADOR
+
 - WiiMednafen (Versão 3.0 Revisão 2021040001)
 Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos seguintes sistemas de emulação:
 * Atari Lynx
@@ -24,6 +39,11 @@ Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos segui
 * WonderSwan Color
 # https://github.com/raz0red/wii-mednafen
 ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+SUPER NINTENDO
+
 - Snes9x TX (Versão 1.1.1 Beta 2)
 Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
 # https://gbatemp.net/threads/snes9xgx-mushroom.558500
@@ -33,6 +53,11 @@ Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
 Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.52.
 # https://github.com/niuus/snes9xrx
 ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+PLAYSTATION
+
 - WiiSX RX 2022 (Versão 20220710)
 Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatibilidade.
 # https://github.com/xjsxjs197/WiiSXRX_2022
@@ -42,7 +67,12 @@ Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatib
 Emulador de Playstation otimizado para Nintendo Wii.
 # https://github.com/niuus/WiiSXRX
 # https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+NINTENDO 64
+
 - Wii64 (Versão 1.3 MOD Beta6)
 Emulador de Nintendo 64 otimizado para Nintendo Wii. Existe duas versões do Wii64, a primeira é a "glN64 GFX" e a segunda é a "Rice GFX".
 # https://github.com/emukidid/Wii64
@@ -52,18 +82,38 @@ Emulador de Nintendo 64 otimizado para Nintendo Wii. Existe duas versões do Wii
 Emulador de Nintendo 64 otimizado para Nintendo Wii.
 # https://github.com/extremscorner/not64
 ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+PC ENGINE E PC ENGINE CD
+
 - PCE Fast Libretro (Revisão 0.4)
 Emulador de PC Engine e PC Engine CD para Nintendo Wii.
 # https://mundowiihack.wordpress.com/tag/pce-fast-libretro
 ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+NEC PC-9801
+
 - Neko Project II Wii (Versão 0.83 Beta 6)
 Emulador de PC-98 otimizado para Nintendo Wii.
 # https://mundowiihack.wordpress.com/tag/neko-project-ii-wii
 ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+GAME BOY E GAME BOY ADVANCE
+
 - Gambatte Libretro (Revisão 0.7)
 Emulador de Game Boy e Game Boy Color para Nintendo Wii.
 # https://mundowiihack.wordpress.com/tag/gambatte-libretro
 ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+JOGOS
+
 - Wolfenstein 3D - Spear Of Destiny Wii (Versão 1.31) e Wolfenstein 3D Wii (Versão 1.3)
 Jogo Wolfenstein 3D portado e otimizado para Nintendo Wii.
 # https://mundowiihack.wordpress.com/tag/wolfenstein-3d-wii
@@ -79,11 +129,4 @@ Jogo homebrew "Giana’s Return" portado para Nintendo Wii.
 - Open Hydra Castle Labyrinth Wii (Versão 2021.11.08)
 Jogo homebrew "Open Hydra Castle Labyrinth" portado para Nintendo Wii.
 # https://github.com/JeffRuLz/OpenHCL
-----------------------------------------------------------------------------------------------------------------
-- Final Burn Alpha CPS1 (Revisão 0.8)
-Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
-# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1
-----------------------------------------------------------------------------------------------------------------
-- Final Burn Alpha CPS2 (Revisão 0.6.2)
-Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, utiliza como base o romset 0.2.97.
-# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps2
+----------------------------------------------------------------------------------------------------------
