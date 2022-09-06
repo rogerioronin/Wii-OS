@@ -18,7 +18,7 @@ Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, ut
 MULTIEMULADOR
 
 - WiiMednafen (Versão 3.0 Revisão 2021040001)
-Este é um multiemulador portado para Nintendo Wii que possuoi suporte aos seguintes sistemas de emulação:
+Este é um multiemulador portado para Nintendo Wii que possui suporte aos seguintes sistemas de emulação:
 * Atari Lynx
 * Famicom Disk System (NES)
 * Game Boy
@@ -108,6 +108,19 @@ GAME BOY E GAME BOY ADVANCE
 - Gambatte Libretro (Revisão 0.7)
 Emulador de Game Boy e Game Boy Color para Nintendo Wii.
 # https://mundowiihack.wordpress.com/tag/gambatte-libretro
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+SEGA
+
+- Genesis Plus GX (1.7.5 commits 83a3032)
+Este é um multiemulador de consoles da Sega, desenvolvido originalmente para Nintendo Wii. Possui suporte aos seguintes sistemas de emulação:
+* Master System
+* Game Gear
+* Megadrive / Genesis
+* Sega CD / Mega CD
+# https://bitbucket.org/eke/genesis-plus-gx/src/master
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
 
