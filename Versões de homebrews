@@ -1,15 +1,16 @@
 ARCADE
 
 - Final Burn Alpha Libretro (Revisão 0.5)
-Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
+Emulador construido apartir de núcleos do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
+
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
 --------------------------------------------------------------------------------------------------------------------
 - Final Burn Alpha CPS1 (Revisão 0.8)
-Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
+Emulador construido apartir de núcleos do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1
 ----------------------------------------------------------------------------------------------------------------
 - Final Burn Alpha CPS2 (Revisão 0.6.2)
-Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, utiliza como base o romset 0.2.97.
+Emulador construido apartir de núcleos do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, utiliza como base o romset 0.2.97.
 # https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps2
 ----------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------
@@ -97,7 +98,7 @@ Emulador de Nintendo 64 otimizado para Nintendo Wii.
 PC ENGINE E PC ENGINE CD
 
 - PCE Fast Libretro (Revisão 0.4)
-Emulador de PC Engine e PC Engine CD para Nintendo Wii.
+Emulador construido apartir de núcleos do Retroarch para Nintendo Wii, compativel com jogos de PC Engine e PC Engine CD.
 # https://mundowiihack.wordpress.com/tag/pce-fast-libretro
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
@@ -115,8 +116,12 @@ Emulador de PC-98 otimizado para Nintendo Wii.
 GAME BOY E GAME BOY ADVANCE
 
 - Gambatte Libretro (Revisão 0.7)
-Emulador de Game Boy e Game Boy Color para Nintendo Wii.
+Emulador construido apartir de núcleos do Retroarch para Nintendo Wii, compativel com jogos de Game Boy e Game Boy Color.
 # https://mundowiihack.wordpress.com/tag/gambatte-libretro
+------------------------------------------------------------------------------------------------------------------------------------------
+- mGBA (versão 0.9.3)
+Emulador de Game Boy Advance, Game Boy Color e Game Boy (é recomendado utilizar ele somente para emulação de Game Boy Advance), portado e otimizado para Nintendo Wii.
+# https://github.com/mgba-emu/mgba
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
 
