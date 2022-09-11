@@ -1,25 +1,65 @@
 ARCADE
-
 - Final Burn Alpha Libretro (Revisão 0.5)
-Emulador construido apartir de núcleos do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
-
-# https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
+# Emulador construido apartir de um núcleo do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha Libretro" para Nintendo Wii, utiliza como base o romset 0.2.97.
+https://mundowiihack.wordpress.com/tag/final-burn-alpha-libretro
 --------------------------------------------------------------------------------------------------------------------
 - Final Burn Alpha CPS1 (Revisão 0.8)
-Emulador construido apartir de núcleos do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
-# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1
+# Emulador construido apartir de um núcleo do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha CPS1" para Nintendo Wii, utiliza como base o romset 0.2.97.
+https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1
 ----------------------------------------------------------------------------------------------------------------
 - Final Burn Alpha CPS2 (Revisão 0.6.2)
-Emulador construido apartir de núcleos do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, utiliza como base o romset 0.2.97.
-# https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps2
-----------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------
+# Emulador construido apartir de um núcleo do Retroarch para Nintendo Wii. Esta versão do emulador de arcade "Final Burn Alpha CPS2" para Nintendo Wii, utiliza como base o romset 0.2.97.
+https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps2
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+GAME BOY, GAME BOY COLOR E GAME BOY ADVANCE
+- Gambatte Libretro (Revisão 0.7)
+# Emulador construido apartir de um núcleo do Retroarch para Nintendo Wii, o Gambatte é compativel com jogos de Game Boy e Game Boy Color.
+https://mundowiihack.wordpress.com/tag/gambatte-libretro
+------------------------------------------------------------------------------------------------------------------------------------------
+- mGBA (versão 0.9.3)
+# Emulador de Game Boy Advance, Game Boy Color e Game Boy, no entanto é recomendado utilizar o mGBA somente para emulação de Game Boy Advance, é um excelente emulador de Game Boy Advance portado e otimizado para Nintendo Wii.
+https://github.com/mgba-emu/mgba
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+NEC PC-9801
+- Neko Project II Wii (Versão 0.83 Beta 6)
+# Emulador de PC-98 otimizado para Nintendo Wii.
+https://mundowiihack.wordpress.com/tag/neko-project-ii-wii
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+NINTENDO ENTERTAINMENT SYSTEM
+- FCEUX TX (v1.1.5)
+# Emulador de Nintendo Entertainment System otimizado para Nintendo Wii.
+https://gbatemp.net/threads/fceugx-1up.558023
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+NINTENDO 64
+- Wii64 (Versão 1.3 MOD Beta6)
+# Emulador de Nintendo 64 otimizado para Nintendo Wii. Existe duas versões do Wii64, a primeira é a "glN64 GFX" e a segunda é a "Rice GFX".
+https://github.com/emukidid/Wii64
+https://gbatemp.net/threads/wii64-beta-1-3-with-wiiflow-compatibility.609418
+------------------------------------------------------------------------------------------------------------------------------------------
+- Not64 (Versão 20211116)
+# Emulador de Nintendo 64 fork do Wii64, otimizado para Nintendo Wii.
+https://github.com/extremscorner/not64
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 MULTIEMULADOR
-
 - WiiMednafen (Versão 3.0 Revisão 2021040001)
-Este é um multiemulador portado para Nintendo Wii que possui suporte aos seguintes sistemas de emulação:
+# Este é um excelente multiemulador portado para Nintendo Wii, possui suporte aos seguintes sistemas de emulação:
 * Atari Lynx
 * Famicom Disk System (NES)
 * Game Boy
@@ -38,122 +78,81 @@ Este é um multiemulador portado para Nintendo Wii que possui suporte aos seguin
 * Virtual Boy
 * WonderSwan
 * WonderSwan Color
-# https://github.com/raz0red/wii-mednafen
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-
-SINCLAIR ZX SPECTRUM
-
-- FBZX Wii (v15)
-Excelente emulador de Sinclair ZX Spectrum para Nintendo Wii.
-# https://github.com/Oibaf66/fbzx-wii
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-
-SUPER NINTENDO
-
-- Snes9x TX (Versão 1.1.1 Beta 2)
-Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
-# https://gbatemp.net/threads/snes9xgx-mushroom.558500
-# https://github.com/dborth/snes9xgx
-----------------------------------------------------------------------------------------------------------
-- Snes9x RX (Versão 5.2.0)
-Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.52.
-# https://github.com/niuus/snes9xrx
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-
-PLAYSTATION
-
-- WiiSX RX 2022 (Versão 20220903)
-Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatibilidade.
-# https://github.com/xjsxjs197/WiiSXRX_2022
-# https://gbatemp.net/threads/wiisxrx_2022-another-fork-of-wiisxrx-released.614405
-----------------------------------------------------------------------------------------------------------
-- WiiSX RX (Versão 2.7)
-Emulador de Playstation otimizado para Nintendo Wii.
-# https://github.com/niuus/WiiSXRX
-# https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-
-NINTENDO 64
-
-- Wii64 (Versão 1.3 MOD Beta6)
-Emulador de Nintendo 64 otimizado para Nintendo Wii. Existe duas versões do Wii64, a primeira é a "glN64 GFX" e a segunda é a "Rice GFX".
-# https://github.com/emukidid/Wii64
-# https://gbatemp.net/threads/wii64-beta-1-3-with-wiiflow-compatibility.609418
-------------------------------------------------------------------------------------------------------------------------------------------
-- Not64 (Versão 20211116)
-Emulador de Nintendo 64 otimizado para Nintendo Wii.
-# https://github.com/extremscorner/not64
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
+https://github.com/raz0red/wii-mednafen
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 PC ENGINE E PC ENGINE CD
-
 - PCE Fast Libretro (Revisão 0.4)
-Emulador construido apartir de núcleos do Retroarch para Nintendo Wii, compativel com jogos de PC Engine e PC Engine CD.
-# https://mundowiihack.wordpress.com/tag/pce-fast-libretro
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
+# Emulador construido apartir de núcleos do Retroarch para Nintendo Wii, compativel com jogos de PC Engine e PC Engine CD.
+https://mundowiihack.wordpress.com/tag/pce-fast-libretro
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-NEC PC-9801
-
-- Neko Project II Wii (Versão 0.83 Beta 6)
-Emulador de PC-98 otimizado para Nintendo Wii.
-# https://mundowiihack.wordpress.com/tag/neko-project-ii-wii
+PLAYSTATION
+- WiiSX RX 2022 (Versão 20220903)
+# Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatibilidade.
+https://github.com/xjsxjs197/WiiSXRX_2022
+https://gbatemp.net/threads/wiisxrx_2022-another-fork-of-wiisxrx-released.614405
 ----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-
-GAME BOY E GAME BOY ADVANCE
-
-- Gambatte Libretro (Revisão 0.7)
-Emulador construido apartir de núcleos do Retroarch para Nintendo Wii, compativel com jogos de Game Boy e Game Boy Color.
-# https://mundowiihack.wordpress.com/tag/gambatte-libretro
-------------------------------------------------------------------------------------------------------------------------------------------
-- mGBA (versão 0.9.3)
-Emulador de Game Boy Advance, Game Boy Color e Game Boy (é recomendado utilizar ele somente para emulação de Game Boy Advance), portado e otimizado para Nintendo Wii.
-# https://github.com/mgba-emu/mgba
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
+- WiiSX RX (Versão 2.7)
+# Emulador de Playstation otimizado para Nintendo Wii.
+https://github.com/niuus/WiiSXRX
+https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 SEGA
-
 - Genesis Plus GX (1.7.5 commits 83a3032)
-Este é um multiemulador de consoles da Sega, desenvolvido originalmente para Nintendo Wii. Possui suporte aos seguintes sistemas de emulação:
+# Este é um excelente multiemulador de consoles da Sega, desenvolvido originalmente para Nintendo Wii. Possui suporte aos seguintes sistemas de emulação:
 * Master System
 * Game Gear
 * Megadrive / Genesis
 * Sega CD / Mega CD
-# https://bitbucket.org/eke/genesis-plus-gx/src/master
+https://bitbucket.org/eke/genesis-plus-gx/src/master
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SINCLAIR ZX SPECTRUM
+- FBZX Wii (v15)
+# Excelente emulador de Sinclair ZX Spectrum para Nintendo Wii.
+https://github.com/Oibaf66/fbzx-wii
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SUPER NINTENDO
+- Snes9x TX (Versão 1.1.1 Beta 2)
+# Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
+https://gbatemp.net/threads/snes9xgx-mushroom.558500
+https://github.com/dborth/snes9xgx
 ----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
+- Snes9x RX (Versão 5.2.0)
+# Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.52.
+https://github.com/niuus/snes9xrx
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-JOGOS
-
+JOGOS (HOMEBREWS E PORTES)
 - Wolfenstein 3D - Spear Of Destiny Wii (Versão 1.31) e Wolfenstein 3D Wii (Versão 1.3)
-Jogo Wolfenstein 3D portado e otimizado para Nintendo Wii.
-# https://mundowiihack.wordpress.com/tag/wolfenstein-3d-wii
+# Jogo Wolfenstein 3D portado e otimizado para Nintendo Wii.
+https://mundowiihack.wordpress.com/tag/wolfenstein-3d-wii
+http://wiibrew.org/wiki/Wolfenstein_3D_Wii
 ----------------------------------------------------------------------------------------------------------
 - OpenTyrian Wii (Versão 1.8 revisão 45)
-Jogo Tyrian portado e otimizado para Nintendo Wii.
-# https://github.com/niuus/OpenTyrian-Wii
+# Jogo Tyrian portado e otimizado para Nintendo Wii.
+https://github.com/niuus/OpenTyrian-Wii
 ----------------------------------------------------------------------------------------------------------
 - Giana’s Return Wii (Versão 1.10.1)
-Jogo homebrew "Giana’s Return" portado para Nintendo Wii.
-# https://www.gianas-return.de
+# Jogo homebrew "Giana’s Return" portado para Nintendo Wii.
+https://www.gianas-return.de
 ----------------------------------------------------------------------------------------------------------
 - Open Hydra Castle Labyrinth Wii (Versão 2021.11.08)
-Jogo homebrew "Open Hydra Castle Labyrinth" portado para Nintendo Wii.
-# https://github.com/JeffRuLz/OpenHCL
+# Jogo homebrew "Open Hydra Castle Labyrinth" portado para Nintendo Wii.
+https://github.com/JeffRuLz/OpenHCL
 ----------------------------------------------------------------------------------------------------------
