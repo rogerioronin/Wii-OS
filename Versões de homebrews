@@ -34,12 +34,19 @@ https://mundowiihack.wordpress.com/tag/neko-project-ii-wii
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+NEO GEO POCKET E NEO GEO POCKET COLOR
+- Mednafen Neo Geo Pocket (revisão 0.4)
+# Emulador construido apartir de um núcleo do Retroarch para Nintendo Wii, o Mednafen Neo Geo Pocket é compativel com jogos de Neo Geo Pocket e Neo Geo Pocket Color.
+https://github.com/libretro/beetle-ngp-libretro
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 NINTENDO ENTERTAINMENT SYSTEM
 - FCEUX TX (v1.1.5)
 # Emulador de Nintendo Entertainment System otimizado para Nintendo Wii.
 https://gbatemp.net/threads/fceugx-1up.558023
-
-
+https://github.com/libretro/beetle-ngp-libretro
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -139,14 +146,9 @@ https://github.com/niuus/snes9xrx
 
 
 JOGOS (HOMEBREWS E PORTES)
-- Wolfenstein 3D - Spear Of Destiny Wii (Versão 1.31) e Wolfenstein 3D Wii (Versão 1.3)
-# Jogo Wolfenstein 3D portado e otimizado para Nintendo Wii.
-https://mundowiihack.wordpress.com/tag/wolfenstein-3d-wii
-http://wiibrew.org/wiki/Wolfenstein_3D_Wii
-----------------------------------------------------------------------------------------------------------
-- OpenTyrian Wii (Versão 1.8 revisão 45)
-# Jogo Tyrian portado e otimizado para Nintendo Wii.
-https://github.com/niuus/OpenTyrian-Wii
+- Cannonball Libretro (revisão 0.1)
+# O homebrew Cannonball otimiza o jogo "OutRun" no Nintendo Wii.
+https://github.com/libretro/cannonball
 ----------------------------------------------------------------------------------------------------------
 - Giana’s Return Wii (Versão 1.10.1)
 # Jogo homebrew "Giana’s Return" portado para Nintendo Wii.
@@ -156,11 +158,16 @@ https://www.gianas-return.de
 # Jogo homebrew "Open Hydra Castle Labyrinth" portado para Nintendo Wii.
 https://github.com/JeffRuLz/OpenHCL
 ----------------------------------------------------------------------------------------------------------
+- OpenTyrian Wii (Versão 1.8 revisão 45)
+# Jogo Tyrian portado e otimizado para Nintendo Wii.
+https://github.com/niuus/OpenTyrian-Wii
+----------------------------------------------------------------------------------------------------------
 - Road Fighter Remake (versão 1.0)
 # Remake do jogo "Road Fighter" portado para Nintendo Wii.
 https://roadfighter.jorito.net
 ----------------------------------------------------------------------------------------------------------
-- Cannonball Libretro (revisão 0.1)
-# o homebrew Cannonball otimiza o jogo "OutRun" no Nintendo Wii.
-https://github.com/libretro/cannonball
+- Wolfenstein 3D - Spear Of Destiny Wii (Versão 1.31) e Wolfenstein 3D Wii (Versão 1.3)
+# Jogo Wolfenstein 3D portado e otimizado para Nintendo Wii.
+https://mundowiihack.wordpress.com/tag/wolfenstein-3d-wii
+http://wiibrew.org/wiki/Wolfenstein_3D_Wii
 ----------------------------------------------------------------------------------------------------------
