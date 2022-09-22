@@ -42,11 +42,16 @@ https://github.com/libretro/beetle-ngp-libretro
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-NINTENDO ENTERTAINMENT SYSTEM
-- FCEUX TX (v1.1.5)
-# Emulador de Nintendo Entertainment System otimizado para Nintendo Wii.
+NINTENDO ENTERTAINMENT SYSTEM E FAMICOM DISK SYSTEM
+- FCEUX TX (Versão 1.1.5)
+# Emulador de Nintendo Entertainment System e Famicom Disk System otimizado para Nintendo Wii.
 https://gbatemp.net/threads/fceugx-1up.558023
 https://github.com/libretro/beetle-ngp-libretro
+------------------------------------------------------------------------------------------------------------------------------------------
+- FCEUmm Libretro (revisão 0.6)
+# Emulador construido apartir de núcleos do Retroarch para Nintendo Wii, compativel com jogos de Nintendo Entertainment System e Famicom Disk System.
+https://mundowiihack.wordpress.com/2020/05/20/wii-fceumm-r0-1-mod
+https://github.com/libretro/libretro-fceumm
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
