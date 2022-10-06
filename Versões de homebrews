@@ -43,7 +43,7 @@ https://github.com/libretro/beetle-ngp-libretro
 
 
 NINTENDO ENTERTAINMENT SYSTEM E FAMICOM DISK SYSTEM
-- FCEUX TX (Versão 1.1.5)
+- FCEUX TX (Versão 1.1.6)
 # Emulador de Nintendo Entertainment System e Famicom Disk System otimizado para Nintendo Wii.
 https://gbatemp.net/threads/fceugx-1up.558023
 https://github.com/libretro/beetle-ngp-libretro
@@ -138,12 +138,12 @@ https://github.com/Oibaf66/fbzx-wii
 
 
 SUPER NINTENDO
-- Snes9x TX (Versão 1.1.1 Beta 2)
+- Snes9x TX (Versão 1.1.2)
 # Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
 https://gbatemp.net/threads/snes9xgx-mushroom.558500
 https://github.com/dborth/snes9xgx
 ----------------------------------------------------------------------------------------------------------
-- Snes9x RX (Versão 5.2.0)
+- Snes9x RX (Versão 5.3.0)
 # Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.52.
 https://github.com/niuus/snes9xrx
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
