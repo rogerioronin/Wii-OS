@@ -27,7 +27,7 @@ GAME BOY, GAME BOY COLOR E GAME BOY ADVANCE
 # Emulador construido apartir de um núcleo do Retroarch para Nintendo Wii, o Gambatte é compativel com jogos de Game Boy e Game Boy Color.
 https://mundowiihack.wordpress.com/tag/gambatte-libretro
 ------------------------------------------------------------------------------------------------------------------------------------------
-- mGBA (versão 0.10.0)
+- mGBA (versão 0.10.1)
 # Emulador de Game Boy Advance, Game Boy Color e Game Boy, no entanto é recomendado utilizar o mGBA somente para emulação de Game Boy Advance, é um excelente emulador de Game Boy Advance portado e otimizado para Nintendo Wii.
 https://github.com/mgba-emu/mgba
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -51,7 +51,7 @@ https://github.com/libretro/beetle-ngp-libretro
 
 
 NINTENDO ENTERTAINMENT SYSTEM E FAMICOM DISK SYSTEM
-- FCEUX TX (Versão 1.1.6)
+- FCEUX TX (Versão 1.1.7)
 # Emulador de Nintendo Entertainment System e Famicom Disk System otimizado para Nintendo Wii.
 https://gbatemp.net/threads/fceugx-1up.558023
 https://github.com/libretro/beetle-ngp-libretro
@@ -112,12 +112,12 @@ https://mundowiihack.wordpress.com/tag/pce-fast-libretro
 
 
 PLAYSTATION
-- WiiSX RX 2022 (Versão 20220903)
+- WiiStation (Versão 1.0 Commits 901ba46)
 # Emulador de Playstation otimizado para Nintendo Wii, versão com melhor compatibilidade.
 https://github.com/xjsxjs197/WiiSXRX_2022
 https://gbatemp.net/threads/wiisxrx_2022-another-fork-of-wiisxrx-released.614405
 ----------------------------------------------------------------------------------------------------------
-- WiiSX RX (Versão 3.0)
+- WiiSX RX - FS Multitap (Versão 3.3)
 # Emulador de Playstation otimizado para Nintendo Wii.
 https://github.com/niuus/WiiSXRX
 https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
@@ -126,7 +126,7 @@ https://gbatemp.net/threads/wiisx-rx-a-new-fork.570252
 
 
 SEGA
-- Genesis Plus GX (1.7.5 commits 83a3032)
+- Genesis Plus GX (1.7.5 commits a2380d8)
 # Este é um excelente multiemulador de consoles da Sega, desenvolvido originalmente para Nintendo Wii. Possui suporte aos seguintes sistemas de emulação:
 * Master System
 * Game Gear
@@ -146,7 +146,7 @@ https://github.com/Oibaf66/fbzx-wii
 
 
 SUPER NINTENDO
-- Snes9x TX (Versão 1.1.2)
+- Snes9x TX (Versão 1.1.3)
 # Emulador de Super Nintendo otimizado para Nintendo Wii, baseado no Snes9x v1.61.
 https://gbatemp.net/threads/snes9xgx-mushroom.558500
 https://github.com/dborth/snes9xgx
